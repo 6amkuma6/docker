@@ -1,3 +1,4 @@
 hello world >> file.txt
 echo hello world
-hello world
+hello world 
+this is ram from aws
